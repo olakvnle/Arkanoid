@@ -1,3 +1,3 @@
 # Arkanoid
-Brick Breaker Game
+Brick Breaker Game.
 Designed by Samo
